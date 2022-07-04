@@ -34,3 +34,10 @@ ReactJs -> Axios HTTP request -> Spring Boot -> PostgreSQL
 ERD:
 
 open mycms-erd.xml in [draw.io](https://app.diagrams.net/)
+
+
+
+
+Legend:
+BRN -> Business Registration Number
+TRX_STATUS: 0 - fail, 1-success, 3-on hold
