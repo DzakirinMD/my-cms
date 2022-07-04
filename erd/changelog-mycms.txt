@@ -1,0 +1,5 @@
+mycms-erd-v1.0 -> 04 July 2022
+
+- Initial Sketch of the app ERD
+
+=================================================
