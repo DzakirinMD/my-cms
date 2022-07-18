@@ -1,5 +1,5 @@
 # my-cms
-Simple Cash Management System (myCMS) for POC.
+Simple Cash Management System (myCMS) for POC. Current Version <b>v1.1.0</b>
 
 <p>A cash management system is used to forecast, track, and report corporate cash flows. 
 The solution is especially helpful to manage cash flows (including in various currencies) across multiple,
@@ -41,3 +41,8 @@ open mycms-erd.xml in [draw.io](https://app.diagrams.net/)
 Legend:
 BRN -> Business Registration Number
 TRX_STATUS: 0 - fail, 1-success, 3-on hold
+
+
+
+Please install these npm package:
+npm install react-bootstrap bootstrap

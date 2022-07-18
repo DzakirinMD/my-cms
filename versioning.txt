@@ -1,0 +1,3 @@
+- MAJOR version(the version number is in the 1st digit). Most changes are massive upgrades(design, table structure, core component, and runtime/OS arch support)
+- MINOR version(the version number is in the last digit). Most changes on this release are introducing a new feature 
+- PATCH version(the version number is in the middle). Most changes are code Patches for defect in production
