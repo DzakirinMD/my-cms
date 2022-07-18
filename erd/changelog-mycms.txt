@@ -1,5 +1,21 @@
-mycms-erd-v1.0 -> 04 July 2022
+mycms-erd
+
+Release versioning:
+
+- MAJOR version(the version number is in the 1st digit). Most changes are massive upgrades(design, table structure, core component, and runtime/OS arch support)
+- MINOR version(the version number is in the last digit). Most changes on this release are introducing a new feature 
+- PATCH version(the version number is in the middle). Most changes are code Patches for defect in production
+
+=================================================
+v1.0.0 -> 04 July 2022
 
 - Initial Sketch of the app ERD
+
+=================================================
+=================================================
+v1.1.0 -> 13 July 2022
+
+- Added menu to Roles
+- In Future a certain role can access to certain menu only. eg: user and admin wont have same menu
 
 =================================================
