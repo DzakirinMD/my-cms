@@ -16,6 +16,6 @@ v1.0.0 -> 04 July 2022
 v1.1.0 -> 13 July 2022
 
 - Added menu to Roles
-- In Future a certain role can access to certain menu only. eg: user and admin wont have same menu
+- In Future a certain roles can access to certain menu only. eg: user and admin wont have same menu
 
 =================================================
