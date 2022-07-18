@@ -37,10 +37,12 @@ open mycms-erd.xml in [draw.io](https://app.diagrams.net/)
 
 
 
-
+<p>
 Legend:
-BRN -> Business Registration Number
+BRN: Business Registration Number
 TRX_STATUS: 0 - fail, 1-success, 3-on hold
+CA/SA: Current Account/Saving Account
+</p>
 
 
 
